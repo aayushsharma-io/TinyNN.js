@@ -1,4 +1,5 @@
-// tinynn.js
+// tinynn.js [04082025]
+// aayush sharma
 
 class NeuralNetwork {
   constructor(options = {}) {
